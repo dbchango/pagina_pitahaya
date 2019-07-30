@@ -154,7 +154,7 @@ button:focus {
       .header_area .navbar .nav .nav-item .nav-link {
         font: 500 12px/100px "Roboto", sans-serif;
         text-transform: uppercase;
-        color: #fff;
+        color: #000;
         padding: 0px;
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
@@ -200,7 +200,7 @@ button:focus {
             display: block;
             float: none;
             margin-right: 0px;
-            border-bottom: 1px solid #ededed;
+            border-bottom: 1px solid #fff;
             margin-left: 0px;
             transition: all 0.4s linear; }
             .header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
@@ -213,9 +213,9 @@ button:focus {
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:last-child {
               border-bottom: none; }
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
-              background-image: -moz-linear-gradient(0deg, #fff022 0%, #ece285 100%);
-              background-image: -webkit-linear-gradient(0deg, #fff022 0%, #ece285 100%);
-              background-image: -ms-linear-gradient(0deg, #fff022 0%, #ece285 100%);
+              background-image: -moz-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
+              background-image: -webkit-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
+              background-image: -ms-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
               color: #fff; }
         @media (min-width: 992px) {
           .header_area .navbar .nav .nav-item.submenu:hover ul {
@@ -298,8 +298,8 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background-image: -moz-linear-gradient(0deg, #fff022 0%, #ece285 100%);
-  background-image: -webkit-linear-gradient(0deg, #fff022 0%, #ece285 100%);
+  background-image: -moz-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
+  background-image: -webkit-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
   background-image: -ms-linear-gradient(0deg, #fff022 0%, #fbfd79 100%); }
   .home_banner_area .banner_inner {
     width: 100%; }
@@ -2449,7 +2449,7 @@ h6 {
 ============================================================================================ */
 .main_btn {
   display: inline-block;
-  background-image: linear-gradient(to right, #fff022 0%, #ece285 48%, #fff022 100%);
+  background-image: linear-gradient(to right, #fff022 0%, #fbfd79  48%, #fff022 100%);
   background-size: 200% auto;
   padding: 0px 35px;
   color: #fff;
@@ -2490,7 +2490,7 @@ h6 {
 .submit_btn {
   width: auto;
   display: inline-block;
-  background-image: linear-gradient(to right, #fff022 0%, #ece285 48%, #fff022 100%);
+  background-image: linear-gradient(to right, #fff022 0%, #fbfd79  48%, #fff022 100%);
   background-size: 200% auto;
   padding: 0px 50px;
   color: #fff;
@@ -2653,9 +2653,9 @@ h6 {
     max-width: 310px;
     margin: auto; }
   .work_item:hover i {
-    background-image: -moz-linear-gradient(0deg, #fff022 0%, #ece285 100%);
-    background-image: -webkit-linear-gradient(0deg, #fdf03d 0%, #ece285 100%);
-    background-image: -ms-linear-gradient(0deg, #fdf03d 0%, #ece285 100%);
+    background-image: -moz-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
+    background-image: -webkit-linear-gradient(0deg, #fdf03d 0%, #fbfd79  100%);
+    background-image: -ms-linear-gradient(0deg, #fdf03d 0%, #fbfd79  100%);
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1);
     color: #fff; }
   .work_item:hover h4 {
@@ -2694,9 +2694,9 @@ h6 {
       text-transform: uppercase;
       color: #222222; }
       .made_life_inner .nav.nav-tabs li a.active {
-        background-image: -moz-linear-gradient(0deg, #fff022 0%, #ece285 100%);
-        background-image: -webkit-linear-gradient(0deg, #fff022 0%, #ece285 100%);
-        background-image: -ms-linear-gradient(0deg, #fff022 0%, #ece285 100%);
+        background-image: -moz-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
+        background-image: -webkit-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
+        background-image: -ms-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
         box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1);
         color: #fff; }
 .made_life_inner .tab-content .tab-pane {
@@ -2894,18 +2894,18 @@ h6 {
     .price_item .price_footer .main_btn {
       padding: 0px 45px; }
   .price_item:hover .price_head {
-    background-image: -moz-linear-gradient(0deg, #fff022 0%, #ece285 100%);
-    background-image: -webkit-linear-gradient(0deg, #fdf03d 0%, #ece285 100%);
-    background-image: -ms-linear-gradient(0deg, #fdf03d 0%, #ece285 100%);
+    background-image: -moz-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
+    background-image: -webkit-linear-gradient(0deg, #fdf03d 0%, #fbfd79  100%);
+    background-image: -ms-linear-gradient(0deg, #fdf03d 0%, #fbfd79  100%);
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1);
     border-top-left-radius: 5px;
     border-top-right-radius: 5px; }
     .price_item:hover .price_head h4 {
       color: #fff; }
   .price_item:hover .price_footer {
-    background-image: -moz-linear-gradient(0deg, #fff022 0%, #ece285 100%);
-    background-image: -webkit-linear-gradient(0deg, #fdf03d 0%, #ece285 100%);
-    background-image: -ms-linear-gradient(0deg, #fdf03d 0%, #ece285 100%);
+    background-image: -moz-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
+    background-image: -webkit-linear-gradient(0deg, #fdf03d 0%, #fbfd79  100%);
+    background-image: -ms-linear-gradient(0deg, #fdf03d 0%, #fbfd79  100%);
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1); }
     .price_item:hover .price_footer h3 {
       color: #fff; }
