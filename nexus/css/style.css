@@ -118,7 +118,7 @@ button:focus {
     font-size: 14px;
     font-family: "Roboto", sans-serif;
     line-height: 24px;
-    color: #777777;
+    color: #000;
     margin-bottom: 0px;
     max-width: 570px;
     margin: auto; }
@@ -154,7 +154,7 @@ button:focus {
       .header_area .navbar .nav .nav-item .nav-link {
         font: 500 12px/100px "Roboto", sans-serif;
         text-transform: uppercase;
-        color: #fff;
+        color: rgb(77, 77, 77);
         padding: 0px;
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
@@ -2693,13 +2693,13 @@ h6 {
       font-family: "Roboto", sans-serif;
       font-weight: 500;
       text-transform: uppercase;
-      color: #fff; }
+      color: #000; }
       .made_life_inner .nav.nav-tabs li a.active {
-        background-image: -moz-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
-        background-image: -webkit-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
-        background-image: -ms-linear-gradient(0deg, #fff022 0%, #fbfd79  100%);
+        background-image: -moz-linear-gradient(0deg, #000000 0%, #535353  100%);
+        background-image: -webkit-linear-gradient(0deg, #000000 0%, #535353   100%);
+        background-image: -ms-linear-gradient(0deg, #000000 0%, #535353    100%);
         box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1);
-        color: #000; }
+        color: rgb(255, 255, 255); }
 .made_life_inner .tab-content .tab-pane {
   border: none;
   padding-top: 80px; }
