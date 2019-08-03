@@ -1032,10 +1032,12 @@ button:focus {
 /*----------------------------------------------------*/
 /* Home Map Area css
 ============================================================================================ */
+/*
 .home_map_area {
   position: relative; }
   .home_map_area .mapBox2 {
     min-height: 600px; }
+    
   .home_map_area .home_details {
     position: absolute;
     right: 0px;
@@ -1070,7 +1072,7 @@ button:focus {
           text-transform: uppercase; }
         .home_map_area .home_details .box_home_details .media .media-body p {
           margin-bottom: 0px; }
-
+*/
 /* End Home Map Form Area css
 ============================================================================================ */
 /* Reservation Form Area css
