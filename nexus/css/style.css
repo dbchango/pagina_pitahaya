@@ -331,6 +331,7 @@ button:focus {
       .home_banner_area .banner_inner .banner_content .banner_btn2 {
         margin-right: 10px; }
 
+
 .blog_banner {
   min-height: 780px;
   position: relative;
@@ -374,6 +375,8 @@ button:focus {
 .banner_box {
   max-width: 1620px;
   margin: auto; }
+
+
 
 .banner_area {
   position: relative;
@@ -1101,6 +1104,8 @@ button:focus {
     width: 98px;
     top: 50%;
     transform: translateY(-50%); }
+
+
 
 .reservation_form .form-group input {
   height: 40px;
@@ -3026,3 +3031,15 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+/*mapa*/
+.mapaG{
+  width: 100%;
+}
+
+.subtitulo{
+  color: #007bff;
+}
+
+.title2 {
+  
+}
